@@ -1,3 +1,3 @@
-# Dice
+# Dice iOS App
 
-iOS-Beispielprojekt welches einen einfachen Würfel implementiert.
+iOS Dice App using SwiftUI
